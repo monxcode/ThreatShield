@@ -77,12 +77,6 @@ Detect karta hai:
 - **JavaScript (Vanilla)** – Rule-based threat logic  
 - **Chart.js** – Threat visualization  
 
-❌ No Backend  
-❌ No APIs  
-✅ Pure Frontend  
-✅ Works Offline  
-✅ GitHub Pages deployable  
-
 ---
 
 ##  How It Works (Simple Flow)
