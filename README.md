@@ -2,7 +2,7 @@
 
 🔗 **Live Demo:** https://monxcode.github.io/ThreatShield/
 
-**Team:** Tech4Impact  
+**Team:** TECH4IMPACT  
 **Type:** Frontend-only Cybersecurity Tool  
 **Theme:** Gen-Z • Glassmorphism • Gamified Security Awareness  
 
