@@ -14,7 +14,7 @@
 This tool detects common phishing, scam, and malicious **patterns using rule-based logic —** without any backend, API, or database.
 
 This Project  main goal:
-> **Cybersecurity awareness + interactive learning**, especially for hackathons & demos.
+> **Cybersecurity awareness + interactive learning**, Specially for hackathons & demos.
 
 ---
 
