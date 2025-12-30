@@ -1,6 +1,6 @@
 # 🛡️ Cyber Threat Detector
 
-🔗 **Live Demo:** https://monxcode.github.io/CyberRakshak/
+🔗 **Live Demo:** https://monxcode.github.io/ThreatShield/
 
 **Team:** Tech4Impact  
 **Type:** Frontend-only Cybersecurity Tool  
