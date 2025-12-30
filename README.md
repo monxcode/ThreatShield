@@ -1,4 +1,4 @@
-# 🛡️ Cyber Threat Detector | CyberRakshak
+# 🛡️ Cyber Threat Detector
 
 🔗 **Live Demo:** https://monxcode.github.io/CyberRakshak/
 
